@@ -3,7 +3,6 @@ This script unzips all of the zip archives in the folder, renames my main math e
 ```Python 
 # -*- coding: utf-8 -*-
 """
-Created on Tue Sep 19 08:06:25 2017
 
 @author: builduser
 """
